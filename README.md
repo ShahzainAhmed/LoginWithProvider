@@ -1,4 +1,4 @@
-# Login with REST API with Provider
+# Login with REST API using Provider
 
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/59369881/221356259-04285737-e164-4d12-9489-f83d8f0213a2.png">
